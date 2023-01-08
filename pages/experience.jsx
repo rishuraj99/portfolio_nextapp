@@ -4,7 +4,7 @@ const Experience = () => {
   return (
     <div
       style={{
-        gap: "5px",
+        gap: "8px",
         padding: "1rem",
         gap: "10px",
       }}
