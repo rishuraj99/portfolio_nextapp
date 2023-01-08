@@ -6,9 +6,10 @@ const Experience = () => {
       style={{
         gap: "5px",
         padding: "1rem",
-        gap: "20px",
+        gap: "10px",
       }}
     >
+
       <div
         style={{
           border: "2px solid black",
