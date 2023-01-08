@@ -39,7 +39,7 @@ export default function Home({ maindata, secondData }) {
           />
           <h2> {secondData.name}</h2>
           <p> {secondData.bio}</p>
-          <Link href="https://drive.google.com/file/d/1rzydD2R905DRz60E6Mx6ukZKEWTkGsEE/view?usp=sharing">
+          <Link href="https://drive.google.com/file/d/1LP5TIv6yoBAK4VLmNmEg3riQoujuoRQA/view?usp=sharing">
             <button>Resume</button>
           </Link>
           <Link href={secondData.html_url}>
